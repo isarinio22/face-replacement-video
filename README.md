@@ -46,11 +46,6 @@ This project is meant to highlight my technical skills in a creative manner that
 python main.py
 
 
-## Example Video
-
-Here’s a short demo of the face replacement in action:
-
-![Demo Video](demo_video.gif)
 
 
 
